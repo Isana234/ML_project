@@ -1,3 +1,3 @@
 # ML_project
-ML project with a simple user interface
-and sales forecasting
+A sales forecasting ML project with a simple user interface.
+
